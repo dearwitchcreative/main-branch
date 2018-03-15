@@ -1,0 +1,2170 @@
+/*
+Theme Name: Zerif Lite Child 02
+Theme URI: https://themeisle.com/themes/zerif-lite/
+Template: zerif-lite
+Author: ThemeIsle
+Author URI: https://themeisle.com
+Description: Zerif LITE is a free one page WordPress theme. It's perfect for web agency business,corporate business,personal and parallax business portfolio, photography sites and freelancer.Is built on BootStrap with parallax support, is responsive, clean, modern, flat and minimal. Zerif Lite is ecommerce (WooCommerce) Compatible, WPML, RTL, Retina-Ready, SEO Friendly and with parallax, full screen image is one of the best business themes.
+Tags: one-column,two-columns,right-sidebar,full-width-template,rtl-language-support,sticky-post,theme-options,custom-background,custom-menu,editor-style,featured-images,threaded-comments,translation-ready,footer-widgets,portfolio,e-commerce,blog
+Version: 1.8.5.35.1521047408
+Updated: 2018-03-14 17:10:08
+
+*/
+
+body {
+    color: black; /*#808080;*/
+   }
+
+  /**********************************************************************DESKTOP STYLES****************************************************/			
+			
+	/****************************************************ADDED FROM CHLD THEME**************************************/			
+				
+	div.wild-pic-1{			
+        max-width: 40%;			
+	        height:auto;			
+	        margin-left: 60px;			
+	        padding-top:75px;			
+	        float:left;			
+	        position:relative;							
+	}			
+				
+	div.wild-pic-3{			
+	        max-width:50%;			
+	        	        height:auto;			
+	        float:right;			
+	margin-top:-35px;			
+		margin-right:30px;			        			
+	}			
+	h1.wild-title{			
+	        padding-top:50px;			
+	}			
+				
+	h1.unsettled-title{			
+	        padding-top:50px;			
+	}			
+				
+	div.unsettled-video{			
+	        float:left;			
+	        padding-top:100px;			
+	        margin-left:50px;			
+	}			
+				
+	div.unsettled-logo{			
+	        max-width:90%;			
+	        height:auto;			
+	        float:right;			
+	        margin-right:-275px;			
+	        margin-top:-765px;			
+	}			
+				
+	h6.credit{			
+	        position:absolute;			
+	        float:right;			
+	        margin-left:920px;			
+	        margin-top:450px;			
+	}			
+				
+	div.pets-content{			
+	        position: absolute;			
+	        padding-top:600px;			
+	        margin-left:400px;			
+	}			
+				
+	div.pets-pic{			
+	        max-width:40%;			
+	        max-height:auto;			
+	        margin-left:400px;			
+	        margin-bottom:50px;			
+				
+	}			
+				
+				
+				
+	h1.pets-title{			
+	        text-align: center;			
+	}			
+				
+	div.contact-button{			
+	        margin-bottom:-175px;			
+	        margin-top:200px;			
+	}			
+				
+				
+				
+	.so-widget-sow-image-default-2b1fadbace82 .sow-image-container .so-widget-image {			
+	    display: block;			
+	    max-width: 100%;			
+	    width: 100%;			
+	    height: auto;			
+	    opacity: 1;			
+	}			
+				
+	div.hero-content{			
+	        margin-top:-515px;			
+	        padding-bottom:700px;			
+	}			
+	h1.services{			
+	        font-size: 60px;			
+	        color: #D6A99A;			
+	        position:absolute;			
+	        text-align: center;			
+	        margin-left: 515px;			
+	        font-weight: lighter;			
+	        padding-top:225px;			
+	        			
+	}			
+				
+	div.website-design{			
+	        width:50%;			
+	        height:auto;			
+	        margin-left:150px;			
+	        text-align:left;			
+	        margin-top:-50px;			
+	}			
+				
+	div.design-image{			
+	        width:15%;			
+	        height:auto;			
+	        float:right;			
+	        margin-right: 200px;			
+	            margin-top: -165px;			
+	    padding-bottom: 225px;			
+	}			
+				
+	div.dev-image{			
+	        width:15%;			
+	        height:auto;			
+	        margin-left:150px;			
+	        padding-top:170px;			
+	        	}			
+
+	h2.dev-title{			
+	position:absolute;			
+	padding-top:160px;			
+	padding-left:460px;			
+	}			
+				
+
+	p.dev-content{			
+	        width:66%;			
+	        height:auto;			
+	        float:right;			
+	        text-align:left;			
+	        margin-top:-125px;			
+	        padding-right:200px;			
+				
+	}			
+	div.content-image{			
+	        width:15%;			
+	        height:auto;			
+	        float:right;			
+	        margin-right:210px;			
+	        margin-top:-160px;							
+	        			
+	        				}			
+	p.content-content{			
+	        width:78%;			
+	        height:auto;			
+	        text-align:left;			
+	        padding-left:150px;			
+	        padding-top:225px;			
+	}			
+	div.content-section{			
+	        width:78%;			
+	        height:auto;			
+				
+	}			
+				
+	h2.content-title{			
+	        float:left;			
+	        padding-left:150px;			
+	        padding-top:160px;			
+	}			
+				
+	div.teammate-image{			
+	width:15%;			
+	height:auto;			
+	margin-left:150px;			
+	position:absolute;			
+	padding-top:20px;			
+				
+}			
+				
+	h2.teammates-title{			
+	        margin-top:150px;			
+	        margin-left:-300px;			
+	}			
+				
+	div.teammates{			
+	margin-bottom:-50px;			
+	}			
+				
+	p.teammate-content{			
+	        width:66%;			
+	        height:auto;			
+	        float:right;			
+	        text-align:left;			
+	        padding-top:40px;			
+	        padding-right:215px;			
+				
+	}			
+	.maxbutton-4.maxbutton.maxbutton-contact-us{			
+	        display:none;			
+	}			
+				
+				
+	footer.site-footer.section-inner {			
+	    padding-top: 40px;}			
+				
+	    ul{list-style: none}		
+
+	    #footer{
+	display:none;
+}
+
+.copyright{
+	display:none;
+}	
+				
+	/*****************************************************************************DESKTOP STYLES END**********************************/			
+				
+				
+	::selection {		
+	        background: black; /*#fc6d6d;*/	
+	}
+
+::-moz-selection {
+background: black; /*#fc6d6d;*/}
+
+a {color: grey /*#e96656;*/}
+
+a:hover {color: black; /*#cb4332;*/}
+
+body,		
+button,		
+input,		
+select,		
+textarea {
+color: black; /*#404040;*/}
+
+mark,
+ins {
+background: black; /*#fff9c0;*/}
+
+.button{color:black;}
+
+.red-btn{background:black;}
+
+.green-btn{background:black;}
+
+.blue-btn{background:black;}
+
+.yellow-btn{background:black;}
+
+.blue-btn:hover{
+	background:black;
+}
+
+.red-btn:hover{
+	background:black;
+}
+
+.green-btn:hover{
+	background:black;
+}
+
+.yellow-btn:hover{
+	background:black;
+}
+
+hr{background-color:black;}
+
+table{border-bottom: 1px solid black;}
+
+th{border-top: 1px solid black;}
+
+td{border-top: 1px solid black;}
+
+.red-bg, .green-bg, .blue-bg, .yellow-bg, .dark-bg{
+	background: black;
+}
+
+.red-text, .green-text, .blue-text, .yellow-text, .dark-text{
+	color:black;
+}
+
+.white-border-bottom:before, .dark-border-bottom:before, .red-border-bottom:before, .green-border-bottom:before, .blue-border-bottom:before, .yellow-border-bottom:before {
+	background:black;
+}
+
+button,
+input [type="button"],
+input [type="reset"],
+input [type="submit"] {
+	background-color:black;
+}
+
+button:hover,
+input [type="button"]:hover,
+input [type="reset"]:hover,
+input [type="submit"]:hover {
+	border-color:black;
+}
+
+button:focus,
+input [type="button"]:focus,
+input [type="reset"]:focus,
+input [type="submit"]:focus,
+button:active,
+input [type="button"]:active,
+input [type="reset"]:active,
+input [type="submit"]:active {
+	border-color:black;
+}
+ 
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+textarea {
+	color:black;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+textarea:focus {
+	color:black;}
+
+.entry-content button:hover,		
+.entry-content input[type="button"]:hover,		
+.entry-content input[type="reset"]:hover,		
+.entry-content input[type="submit"]:hover {		
+        background: black;	}
+
+.input-box{
+	background:black;
+}
+
+.textarea-box{
+	background:black;
+}
+
+textarea:hover,		
+	input:hover,		
+	textarea:active,		
+input:active,		
+	textarea:focus,		
+	input:focus {
+outline-color: black;!important;
+}
+
+input:focus,
+textarea:focus{
+	border:black;
+}
+
+a, a:visited, a:hover, a:focus, a:active{
+	color:grey;
+}
+
+.main-navigation ul ul{
+	box-shadow:0 3px 3px black;
+}
+
+.nav-links a {
+	color:black;
+}
+
+.screen-reader-text:hover,		
+.screen-reader-text:active,		
+.screen-reader-text:focus {
+	color:black;
+	background-color: black;
+}
+
+.widget .widget-title {
+	color:black;}
+
+.widget .widget-title:before {
+	background:black;}
+
+.widget select{
+	border: 1px solid black;
+}
+
+.tagcloud a {
+	background:black;
+}
+
+.widget li:before{
+	background:black;
+} 
+
+.widget li a{
+	color:black;
+}
+
+
+.widget li a:hover{
+	color:grey;
+}
+
+.entry-title:before {
+	background:black;
+}
+
+.comment a{
+	color:black;
+}
+
+.comment-form #submit,
+.comment-reply-link {
+	border-color: black;
+	background:black;
+}
+
+.comment-form #submit:hover,		
+.comment-form #submit:focus,		
+.comment-form #submit:active {		
+ background: black;}
+
+ .comment-metadata,		
+.comment-metadata a {			
+color: black;}
+
+.comment-reply-link:hover {
+	background:black;
+}
+
+.preloader{
+	background-color: black;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color:black;
+}
+
+.navbar-inverse .main-navigation > ul > li > a {
+	color:black;
+}
+
+.navbar-inverse .navbar-nav ul.sub-menu li a {
+	color:black;
+}
+
+.navbar-inverse .navbar-nav ul.sub-menu li:hover > a,		
+.navbar-inverse .navbar-nav ul.sub-menu li.link-focus > a {		
+ color: black;
+}
+
+.navbar-inverse .navbar-brand .site-title-tagline-wrapper .site-title > a:hover,		
+.navbar-inverse .navbar-brand .site-title-tagline-wrapper .site-title > a:focus {		 
+       color: black; 
+}
+
+.navbar-inverse .navbar-brand:hover,		
+.navbar-inverse .navbar-brand:focus,		
+.navbar-inverse .navbar-brand .site-title > a {		
+	        color: black;
+	    }
+
+.navbar-inverse .navbar-nav > li > a:hover,		
+.navbar-inverse .navbar-nav > li > a.link-focus {
+	color:black;
+}
+
+.navbar-toggle{
+	background-color:grey;
+}
+
+.navbar-inverse .navbar-toggle:hover,		
+	.navbar-inverse .navbar-toggle:focus {
+		background-color:black;
+	}
+
+.navbar-toggle.active{
+	background-color:grey;!important;
+}
+
+.navbar-toggle.collapsed {
+	background-color:grey; !important;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,		
+.navbar-inverse .navbar-nav > li > a:focus {		
+	        color: grey; 
+	        
+	}
+
+li.current > a:before {
+	background:black;
+}
+
+ul.nav > li.current > a:before,		
+.page ul.nav > li.current-menu-item > a:before,		
+.single-post ul.nav > li.current-menu-item > a:before,		
+.archive ul.nav > li.current-menu-item > a:before {
+background:black;
+}
+
+ul.nav > li.current_page_item.current > a:before {
+	background:grey;
+}
+
+.latesnews-content p,		
+.latesnews-content {
+color:black;
+}
+
+#carousel-homepage-latestnews .carousel-inner .item .latestnews-title {
+	color:black;}
+
+#carousel-homepage-latestnews .carousel-inner .item .latestnews-title a {
+color:black;
+}
+
+
+#carousel-homepage-latestnews .item .latestnews-box .latestnews-title a:before {
+	background:black;
+}
+
+.focus-box .service-icon {
+	border: 10px solid #E8E3E7;
+}
+
+.red,
+.green,
+.blue,
+.yellow{
+	color:black;
+	background-color:black;
+}
+
+#focus span:nth-child(4n+1) .focus-box .service-icon:hover,		
+#focus span:nth-child(4n+1) .focus-box .service-icon:focus {		
+ border: 10px solid #084c61;
+}
+
+#focus span:nth-child(4n+2)  .focus-box .service-icon:hover,		
+#focus span:nth-child(4n+2)  .focus-box .service-icon:focus {	
+border: 10px solid #084c61;
+}
+
+#focus span:nth-child(4n+3) .focus-box .service-icon:hover,		
+#focus span:nth-child(4n+3) .focus-box .service-icon:focus {		
+ border: 10px solid #084c61;
+}
+
+#focus span:nth-child(4n+4) .focus-box .service-icon:hover,		
+#focus span:nth-child(4n+4) .focus-box .service-icon:focus {		
+ border: 10px solid #084c61;
+
+}
+
+#focus span:nth-child(4n+1) .focus-box .red-border-bottom:before {		
+	        background: #084c61;}
+
+#focus span:nth-child(4n+2) .focus-box .red-border-bottom:before {		
+    background: #084c61;}
+
+  #focus span:nth-child(4n+3) .focus-box .red-border-bottom:before {		
+ background: #084c61;
+}
+
+#focus span:nth-child(4n+4) .focus-box .red-border-bottom:before {		
+  background: #084c61;
+}
+
+.focus-box h3{
+	color: black;
+}
+
+.focus-box p{
+	color:black;
+}
+
+.focus a.zerif-default-links,		
+.our-team a.zerif-default-links {		
+        color: black;
+
+}
+
+.other-focuses .section-footer-title {
+	color:black;
+}
+
+.separator-one .green-btn,
+.separator-one .green-btn:hover {
+	background:black;
+}
+
+.pirate_forms .pirate-forms-submit-button:hover {
+	background:black;
+}
+
+.company-details{
+	color:black;
+}
+
+.company-details a {
+	color:black;
+}
+
+.entry-title{
+	display:none;
+}
+
+entry-footer{
+	display:none;
+}
+
+.woocommerce-page .products h3,		
+.woocommerce-page .products h2 {
+font:inherit;
+font-size: 12px;
+}
+
+.woocommerce-page .woocommerce .checkbox {
+	padding-left: 0;
+}
+
+.woocommerce-page .woocommerce .input-checkbox {
+	margin: 15px 0 0 10px;
+}
+
+.woocommerce-page .woocommerce #payment ul.payment_methods {
+margin-left:2em;
+font-weight:400;
+line-height:2;
+text-align:left;
+}
+
+.woocommerce-page .woocommerce #order_review{
+	clear:left;
+}
+
+.woocommerce-page ul.products li.product:nth-child(4) {
+	margin-right: 0;
+}
+
+.woocommerce-checkout-payment ul.wc_payment_methods li.woocommerce-info {
+	padding: 0 !important;
+}
+
+.woocommerce-page ul.products li.product:nth-child(4) {
+	margin: 0 0 2.992em;
+}
+
+.woocommerce-page ul.products li.product:nth-child(4+1) {
+	clear:none;
+}
+
+/*********************************************************************MAX992****************************/
+@media (max-width: 992px) {
+
+	aside.case-study-sidebar{
+		padding-right:130px;
+	}
+
+.skills{
+	text-align:center;
+}
+	    #footer{
+	display:none;
+}
+
+.copyright{
+	display:none;
+}	
+}
+/************************************************************************************MAX 480***************************/
+@media (max-width: 480px) {
+
+	img.custom-logo{			
+                margin-left:-20px;			
+	        }		
+
+h1.intro-text {			
+    font-size: 32px;			
+    line-height: 37px;			
+    padding-bottom: 100px;			
+      margin-top: -155px;			
+	}
+
+.red-btn, .green-btn, .blue-btn, .yellow-btn {			
+ color: #fff !important;			
+	    -webkit-transition: all 0.3s ease-in-out;			
+	    transition: all 0.3s ease-in-out;			
+	    /* margin-bottom: -100px; */			
+	    /* padding-top: 100px; */			
+	    margin-top: 100px;			
+	}
+
+	    #footer{
+	display:none;
+}
+
+.copyright{
+	display:none;
+}	
+.section-header h2, #focus .section-header h2 a, #team .section-header h2 a, #aboutus .section-header h2 a, #testimonials .section-header h2 a, #contact .section-header h2 a {			
+  margin-top: -200px;			
+	}			
+				
+	#pirate-forms-contact-submit{			
+	        margin-left:-10px;			
+	}			
+				
+	aside.case-study-sidebar{			
+	        width:100%;			
+	        margin-top:-150px;			
+	}		
+
+	h2 {			
+	    font-size: 6.5vw !important;			
+	    margin-top: -150px;			
+	}			
+				
+	img.attachment-full.size-full {			
+	    width: 100%;			
+	    			
+	    margin-right: 125px;			
+	    /* padding-top: 75px; */			
+	    padding-bottom: 50px;			
+	    /* margin-top: -150px; */}			
+	}		
+	}	
+
+
+.focus .row .focus-box, .our-team .row .team-box {			
+	    display: inline-block;			
+	    margin-bottom: 25px;			
+	    vertical-align: top;			
+	}			
+				
+	.red-btn {			
+	    background: #084c61;}			
+				
+	    .focus-box .service-icon {			
+	    display: block;			
+	    position: relative;			
+	    width: 145px;			
+	    height: 145px;			
+	    margin: auto;			
+	    margin-bottom: 30px;			
+	    margin-bottom: 20px;			
+	    /* border: 10px solid #ececec; */			
+	    border-radius: 50%;			
+	    -webkit-transition: all 0.2s ease-in-out;			
+	    transition: all 0.2s ease-in-out;			
+	}			
+				
+	#focus span:nth-child(4n+3) .focus-box .red-border-bottom:before {			
+	    background: black;			
+	}			
+	<style>…</style>			
+	.red-border-bottom::before {			
+	    position: absolute;			
+	    z-index: 1;			
+	    bottom: -9px;			
+	    left: 12.5%;			
+	    height: 2px;			
+	    content: "";			
+	    margin: auto;			
+	    background: black;			
+	}			
+				
+	#focus span:nth-child(4n+2) .focus-box .red-border-bottom:before {			
+	    background: black;			
+	}			
+				
+	.red-border-bottom:before {			
+	    position: absolute;			
+	    z-index: 1;			
+	    bottom: -9px;			
+	    left: 12.5%;			
+	    width: 75%;			
+	    height: 2px;			
+	    margin: auto;			
+	    background: black;			
+	    content: "";			
+	}			
+				
+	#focus span:nth-child(4n+1) .focus-box .red-border-bottom:before {			
+	    background: black;			
+	}			
+
+.red-border-bottom:before {			
+	    position: absolute;			
+	    z-index: 1;			
+	    bottom: -9px;			
+	    left: 12.5%;			
+	    width: 75%;			
+    height: 2px;			
+	    margin: auto;			
+	    background: black;			
+	    content: "";			
+	}			
+				
+	.read-more-link {			
+	        font-family: 'Montserrat';			
+	        font-weight: 700;			
+	        color: #45ac9d;			
+	        text-transform: uppercase;			
+}			
+				
+	article.case-study{			
+	        margin: 40px 0 0;			
+	}			
+				
+	aside.case-study-sidebar {			
+	   text-align:center;			
+	  padding-left:50px;			
+	  padding-top:225px;			
+	    float:left;			
+	}			
+				
+	div.description{			
+	        text-align: left;			
+	}			
+				
+	h4{/* font-weight: lighter; */text-align: center;}			
+				
+		img.attachment-full.size-full {			
+	    width: 40%;			
+	    float:left;			
+	    	         margin-left:700px;			
+    padding-bottom: 50px;			
+	    margin-top:-200px;			
+	  				}			
+	
+	div.ytb-cued-thumbnail-overlay-image{			
+	        margin-bottom:-200px;			
+	}			
+				
+	div.description{			
+	        padding-top:			
+	        padding-left:300px;			
+	}			
+								
+	
+	div#primary-site-content{			
+	        padding-top:100px;			
+	        				}			
+				
+	.addtoany_list.a2a_kit_size_32 a {			
+	    /* font-size: 32px; */			
+	    display: none;}			
+				
+	    .addtoany_header {			
+	    margin: 0 0 16px;			
+	    display: none;}			
+				
+	    h2{			
+	            font-family:"lato";			
+	 	            font-weight: lighter;			
+	    }			
+				
+	    h5{font-family:"Montserrat";			
+	}			
+				
+	    a {			
+	    color: grey;			
+	}			
+				
+	a.site-name{			
+	        color:black;			
+	}			
+				
+	a:visited {			
+	    color: grey;			
+	}			
+				
+	div.case-study-images img {			
+	        width: 100%;			
+	        height: auto;			
+	}			
+				
+				
+				
+	.header-content-wrap{			
+	        background: rgba(0, 0, 0, 0.1);			
+	    background-image: initial;			
+	    background-position-x: initial;			
+	    background-position-y: initial;			
+	    background-size: initial;			
+	    background-repeat-x: initial;			
+	    background-repeat-y: initial;			
+	    background-attachment: initial;		
+	   	    background-origin: initial;			
+  background-clip: initial;			
+	    background-color: rgba(0, 0, 0, 0.1);			
+	}			
+		
+			input#social-media-and-content-creation.skill2{			
+        display:none;			
+	}			
+				
+	input#clean-responsive-sites-that-look-great-on-any-device.skill3{			
+        display:none;			
+}			
+				
+	input#our-trademark-combination-of-results-and-sass.skill4{			
+	        display:none;			
+	}			
+				
+	input#custom-wordpress-themes-and-landing-pages.skill1{			
+	        display:none;			
+	}			
+				
+	canvas{			
+	        display:none;			
+	}			
+				
+				
+	ul.nav > li.current > a:before, .page ul.nav > li.current-menu-item > a:before, .single-post ul.nav > li.current-menu-item > a:before, .archive ul.nav > li.current-menu-item > a:before {			
+	    display: block;			
+	    position: absolute;			
+	    z-index: 1;			
+	    bottom: 0;			
+	    left: 12.5%;			
+	    width: 75%;			
+	    height: 2px;			
+	    margin: auto;			
+	    background: black;			
+	    content: "";			
+	}			
+				
+	ul.nav > li.current > a:before, .page ul.nav > li.current-menu-item > a:before, .single-post ul.nav > li.current-menu-item > a:before, .archive ul.nav > li.current-menu-item > a:before {			
+	    display: block;			
+	    position: absolute;			
+	    z-index: 1;			
+	    bottom: 0;			
+	    left: 12.5%;			
+	    width: 75%;			
+	    height: 2px;			
+7422	    margin: auto;			
+7423	    background: #E8E3E7;			
+7424	    content: "";			
+7425	}			
+7426				
+7427	a:visited {			
+7428	    color: #084c61;}			
+7429				
+7430	.button {			
+7431	    background-color: #084c61;			
+7432	  			
+7433	    position: absolute;			
+7434	    margin-left: -85px;			
+7435	    margin-top: 1650px;}			
+7436				
+7437				
+7438				
+7439	    .red-btn {			
+7440	    background: #084c61;			
+7441	}			
+7442				
+7443	.hero-image {			
+7444	background-image:url ("http://localhost:8888/dearwitch/wp-content/uploads/2018/01/breather2.png")			
+7445	    height: 50%;			
+7446				
+7447	    /* Position and center the image to scale nicely on all screens */			
+7448	    background-position: center;			
+7449	    background-repeat: no-repeat;			
+7450	    background-size: cover;			
+7451	    position: relative;			
+7452	}			
+7453				
+7454	/* Place text in the middle of the image */			
+7455	.hero-text {			
+7456	    text-align: center;			
+7457	    position: absolute;			
+7458	    top: 50%;			
+7459	    left: 50%;			
+7460	    transform: translate(-50%, -50%);			
+7461	    color: white;			
+7462	}			
+7463				
+7464	h1 {			
+7465	  			
+7466	    font-family: "lato";			
+7467	    font-size: 40px;			
+7468	  			
+7469	    margin-top: 65px;			
+7470	    font-weight: lighter;			
+7471	}			
+7472				
+7473				
+7474	.organic-widgets-section.organic-widgets-hero-section{			
+7475	        padding-bottom:140px;			
+7476	        position: relative;			
+7477	}			
+7478				
+7479	div.organic-widgets-featured-image{			
+7480	        margin-top:-50px;			
+7481	}			
+7482				
+7483	footer.site-footer.section-inner{			
+7484	        padding-top:200px;			
+7485	}			
+7486				
+7487	h1.intro-text {			
+7488	   /* margin-top: -50px;*/			
+7489	   /*margin-bottom: -200px;*/			
+7490	   padding-top: 80px;			
+7491	}			
+7492	/********************************************VIDEO************************************/			
+7493	iframe.__youtube_prefs__ {			
+7494	        margin-top:700px;			
+7495	        margin-left:-350px;			
+7496	}			
+7497				
+7498	.section-header h2 {			
+7499	    font-size: 35px;			
+7500	}			
+7501				
+7502	.section-header h2, #focus .section-header h2 a, #team .section-header h2 a, #aboutus .section-header h2 a, #testimonials .section-header h2 a, #contact .section-header h2 a {			
+7503	    			
+7504	    margin-top: -75px;}			
+7505				
+7506	    .organic-widgets-aligner.organic-widgets-aligner-middle-left, .organic-widgets-aligner.organic-widgets-aligner-middle-center, .organic-widgets-aligner.organic-widgets-aligner-middle-right{			
+7507	            margin-top:-50px;			
+7508	    }			
+7509				
+7510	    .this-service:nth-child(even) .service-image {			
+7511	float:right;			
+7512	}			
+7513				
+7514	.site-content {			
+7515	    background: #fff;}			
+7516				
+7517				
+7518	   div#primary.site-content{			
+7519	           background-color: white;			
+7520	   }			
+7521				
+7522	   .this-service:nth-child(even) .images {			
+7523	float:right;			
+7524	}			
+7525				
+7526				
+7527	.this-service:nth-child(odd) .images {			
+7528	float:left;			
+7529	}			
+7530				
+7531	.service-content{			
+7532	        width:70%;			
+7533	        float:left;			
+7534	}			
+7535				
+7536	/*.images{			
+7537	        width: 25%;			
+7538	        float:left;*/			
+7539	}			
+7540				
+7541	   .this-service{			
+7542	        overflow: auto;			
+7543	}			
+7544				
+7545	.organic-widgets-hero-section.organic-widgets-full-height-section {			
+7546	    height: 85vh;			
+7547	    }			
+7548				
+7549	div.service-content{			
+7550	        margin-top:10px;			
+7551	}			
+7552				
+7553	a.live-site {			
+7554				
+7555	    position: absolute;			
+7556	    padding-top: 325px;			
+7557	    margin-left: -875px;			
+7558	}			
+7559				
+7560	img.image.wp-image-304.attachment-thumbnail.size-thumbnail{			
+7561	        margin-top:-275px;			
+7562	        margin-left:-75px;			
+7563	        position:absolute;			
+7564	}		
+}	
+7565	/********************************************************************************MAX480*******************************************/			
+7566	@media (max-width: 480px) {			
+7567	        /* HOME */			
+7568	        .intro {			
+7569	                margin-top: 60%;			
+7570	                font-size: 6.5vw;			
+7571	                line-height: 6vh;
+
+7572	        }			
+7573				
+7574	        .header-content-wrap,			
+7575	        .blog-header-content-wrap {			
+7576	                padding-top: 40%;			
+7577	        }			
+7578	        .intro-text {			
+7579	                font-size: 32px;			
+7580	                line-height: 37px;
+			margin-top: -230px;		
+	padding-bottom: 100px;
+7581	        }
+
+7582	        h2 {			
+7583	                font-size: 6.5vw !important;			
+7584	        }			
+7585	        .other-focus-list ul li {			
+7586	                display: block;			
+7587	                margin-right: 0;			
+7588	                text-align: left;			
+7589	        }			
+7590					    #footer{
+	display:none;
+}
+
+.copyright{
+	display:none;
+}	
+7591	/* blog */			
+7592	        .post-img-wrap {			
+7593	                width: 100%;			
+7594	        }			
+7595	        .listpost-content-wrap {			
+7596	                float: left;			
+7597	                width: 100%;			
+7598	                margin-top: 20px;			
+7599	        }			
+7600	        .post-img-wrap a {			
+7601	                float: none;			
+7602	                width: 250px;			
+7603	                height: 250px;			
+7604	                margin: 0 auto;			
+7605	        }			
+7606	        .post-img-wrap {			
+7607	                margin-right: 0;			
+7608	                text-align: center;			
+7609	        }			
+7610	        .post-img-wrap a img {			
+7611	                width: auto;			
+7612	        }			
+7613				
+7614	/* comments */			
+7615	        .comment-reply-link {			
+7616	                position: relative;			
+7617	                margin-top: 10px;			
+7618	        }			
+7619	        .post-img-wrap a img {			
+7620	                width: 250px;			
+7621	                height: auto;			
+7622	                -webkit-transition: all 0.3s ease-out;			
+7623	                -moz-transition: all 0.3s ease-out;			
+7624	                -ms-transition: all 0.3s ease-out;			
+7625	                -o-transition: all 0.3s ease-out;			
+7626	                transition: all 0.3 ease-out;			
+7627	                -webkit-transform: scale(1);			
+7628	                -moz-transform: scale(1);			
+7629	                -ms-transform: scale(1);			
+7630	                -o-transform: scale(1);			
+7631	                transform: scale(1);			
+7632	        }			
+7633	        .post-img-wrap a:hover img {			
+7634	                -webkit-transition: all 0.3s ease-out;			
+7635	                -moz-transition: all 0.3s ease-out;			
+7636	                -ms-transition: all 0.3s ease-out;			
+7637	                -o-transition: all 0.3s ease-out;			
+7638	                transition: all 0.3 ease-out;			
+7639	                -webkit-transform: scale(1);			
+7640	                -moz-transform: scale(1);			
+7641	                -ms-transform: scale(1);			
+7642	                -o-transform: scale(1);			
+7643	                transform: scale(1);			
+7644	        }			
+7645				
+7646	        img.custom-logo{			
+7647	                margin-left:-20px;			
+7648	        }			
+7649	h1.intro-text {			
+7650	    font-size: 32px;			
+7651	    line-height: 37px;			
+7652	    /* padding-bottom: 100px; */			
+7653	    margin-top: -230px;			
+7654	}			
+7655				
+7656				
+7657	.red-btn, .green-btn, .blue-btn, .yellow-btn {			
+7658	    color: #fff !important;			
+7659	    -webkit-transition: all 0.3s ease-in-out;			
+7660	    transition: all 0.3s ease-in-out;			
+7661	    /* margin-bottom: -100px; */			
+7662	    /* padding-top: 100px; */			
+7663	    margin-top: 100px;			
+7664	}			
+7665				
+7666	.section-header h2, #focus .section-header h2 a, #team .section-header h2 a, #aboutus .section-header h2 a, #testimonials .section-header h2 a, #contact .section-header h2 a {			
+7667	    margin-top: -200px;			
+7668	}			
+7669				
+7670	#pirate-forms-contact-submit{			
+7671	        margin-left:-10px;			
+7672	}			
+7673				
+7674	aside.case-study-sidebar{			
+7675	        width:100%;			
+7676	        			
+7677	}			
+7678				
+7679	h2 {			
+7680	    font-size: 6.5vw !important;			
+7681	    margin-top: -150px;			
+7682	}			
+7683				
+7684	img.attachment-full.size-full {			
+7685	        width: 100%;			
+7686	    margin-right: 00px;			
+7687	        margin-top: -00px;			
+7688	}			
+7689	.button{			
+7690	            
+}			
+7692	}			
+7693				
+7694				
+7695				
+7696	/************************************************************************************MAX376**********************************/			
+7697	/******************************************************IPHONE STYLES***************************/			
+7698	@media screen and (max-width: 376px){			
+7699	h1.wild-title{			
+7700	            margin-top: -5px;			
+7701	    font-size: 26px;			
+7702	}			
+7703	.organic-widgets-hero-section.organic-widgets-full-height-section {			
+7704	    height: 15vh;}			
+7705				
+7706	    div.wild-pic-1 {			
+7707	    padding-top: 50px;			
+7708	    max-width:75%;			
+7709	    width:auto;			
+7710	    			
+7711	    }			
+7712			    #footer{
+	display:none;
+}
+
+.copyright{
+	display:none;
+}			
+7713	h4.wild-service{			
+7714	        padding-right:20px;			
+7715	        padding-left:20px;			
+7716	}			
+7717	    div.wild-pic-3 {			
+7718	       max-width: 100%;			
+7719	    padding-top: 200px;			
+7720	    margin-right: -30px;			
+7721	    position: absolute;			
+7722	    margin-left: 10px;			
+7723	}			
+7724				
+7725	h1.unsettled-title {			
+7726	       padding-top: 460px;			
+7727	    position: absolute;			
+7728	    font-size:26px;			
+7729	    padding-left:50px;			
+7730	}			
+7731				
+7732	h4.unsettled-service {			
+7733	    position: absolute;			
+7734	    padding-top: 565px;			
+7735	    padding-left: 20px;			
+7736	    padding-right:20px;			
+7737	}			
+7738				
+7739	h4.unsettled-client{			
+7740	        padding-top: 400px;			
+7741	    padding-left: 15px;			
+7742	    padding-right: 15px;			
+7743	}			
+7744				
+7745	div.unsettled-video{			
+7746	            /* padding-left: 70px; */			
+7747	    /* float: left; */			
+7748	    padding-top: 10px;			
+7749	    /* margin-left: 50px; */			
+7750	    padding-right: 1px;			
+7751	    width: 100%;			
+7752	    margin-left: -0px			
+7753	}			
+7754				
+7755	h6.credit{			
+7756	        display:none;			
+7757	}			
+7758	div.unsettled-logo {			
+7759	 display:none;			
+7760	}			
+7761				
+7762	h1.pets-title{			
+7763	        margin-top:-200px;			
+7764	    margin-left: -340px;			
+7765	    font-size:26px;			
+7766	    position:absolute;			
+7767	}			
+7768				
+7769	h4.pets-service {			
+7770	    margin-left: -400px;			
+7771	    padding-left: 20px;			
+7772	    padding-right: 20px;			
+7773	    margin-top: -150px;			
+7774	}			
+7775				
+7776	h4.pets-client{			
+7777	            margin-left: -400px;			
+7778	    padding-left: 20px;			
+7779	    padding-right: 40px;			
+7780	}			
+7781				
+7782	div.pets-pic {			
+7783	    max-width: 75%;			
+7784	    margin-left: 50px;			
+7785	    /* margin-bottom: -100px; */			
+7786	    margin-top: 500px;			
+7787	    padding-top: 100px;			
+7788	    /* position: absolute; */			
+7789	}			
+7790				
+7791				
+7792				
+7793	div.pets-content{			
+7794	padding-top:600px;			
+7795	}			
+7796				
+7797	footer.site-footer.section-inner{			
+7798	        margin-top:-100px;}			
+7799				
+7800	.button{			
+7801	        margin-top:53px;			
+7802				
+7803	}			
+7804				
+7805	img.attachment-full.size-full{			
+7806	        margin-left: 425px;			
+7807				
+7808	}			
+7809				
+7810	aside.case-study-sidebar{			
+7811	        padding-left:0;			
+7812	}			
+7813	iframe.__youtube_prefs__ {			
+7814	    margin-top: 625px;			
+7815	    margin-left: -170px;			
+7816	       padding-left: 50px;			
+7817				
+7818	}			
+7819				
+7820	h1.services {			
+7821	    font-size: 18px;			
+7822	    color: #D6A99A;			
+7823	    position: absolute;			
+7824	    text-align: center;			
+7825	    margin-right: 0px;			
+7826	    font-weight: lighter;			
+7827	    padding-top: 374px;			
+7828	    margin-left: 147px;			
+7829	}			
+7830				
+7831	div.design-image{			
+7832	               position: absolute;			
+7833	    margin-left: 140px;			
+7834	    /* margin-top: -400px; */			
+7835	    padding-bottom: 0px;			
+7836	    width: 25%;			
+7837	    padding-top: 170px;			
+7838	}			
+7839				
+7840	div.website-design{			
+7841	                width: 90%;			
+7842	    height: auto;			
+7843	    margin-left: 0px;			
+7844	    padding-right: px;			
+7845	    padding-left: 25px;			
+7846	    text-align: center;			
+7847	    padding-top: 100px;			
+7848	 			
+7849	}			
+7850				
+7851	p.dev-content{			
+7852	                width: 90%;			
+7853	    /* height: auto; */			
+7854	    /* float: right; */			
+7855	    text-align: center;			
+7856	    position: absolute;			
+7857	    /* padding-right: 200px; */			
+7858	    /* margin-left: 0px; */			
+7859	    padding-right: 0;			
+7860	    margin-left: 20px;			
+7861	    padding-top: 325px;			
+7862	}			
+7863				
+7864	h2.dev-title{			
+7865	            position: absolute;			
+7866	    padding-top: 310px;			
+7867	    padding-left: 90px;			
+7868	}			
+7869	        			
+7870	        div.dev-image{			
+7871	                    width: 25%;			
+7872	    height: auto;			
+7873	    margin-bottom: -50px;			
+7874	    margin-top: 100;			
+7875	    /* padding-top: 100px; */			
+7876	    position: absolute;			
+7877	    margin-top: 270px;			
+7878	        }			
+7879				
+7880	div.content-section{			
+7881	    width: 100%;			
+7882	     height: auto;			
+7883	    padding-top: 500px;			
+7884	    margin-right: 50px;			
+7885	    padding-right: 100px;			
+7886	}			
+7887	p.content-content{			
+7888	        width:100%;			
+7889	        height:auto;			
+7890	        padding-left:0;			
+7891	        text-align:center;			
+7892	            margin-left: 50px;			
+7893	    margin-top: -89px;			
+7894	}			
+7895				
+7896	h2.content-title{			
+7897	        float: left;			
+7898	    padding-left: 100px;			
+7899	    padding-top: 240px;			
+7900	}			
+7901				
+7902	div.content-image{			
+7903	            width: 25%;			
+7904	    height: auto;			
+7905	    float: right;			
+7906	    margin-right: 135px;			
+7907	    margin-top: -5px;			
+7908	}			
+7909				
+7910	h2.teammates-title {			
+7911	    margin-top: 150px;			
+7912	    margin-left: 0;			
+7913				
+7914	}			
+7915				
+7916	p.teammate-content {			
+7917	    width: 100%;			
+7918	    height: auto;			
+7919	        text-align: center;			
+7920	    padding-top: 40px;			
+7921	    padding-right: 70px;			
+7922	    margin-left: 40px;			
+7923	    float:none;			
+7924	    }			
+7925				
+7926	div.teammate-image {			
+7927	    padding-top: 140px;			
+7928	    width: 25%;			
+7929	    height: auto;			
+7930	    margin-left: 140px;			
+7931	    position: absolute;			
+7932	    margin-bottom: -50px;			
+7933	    margin-top: 125px;			
+7934	  			
+7935	}			
+7936				
+7937	div.hero-image{			
+7938	        overflow:hidden;			
+7939	}			
+7940	.maxbutton-4.maxbutton.maxbutton-contact-us{			
+7941	display:none;			
+7942	}
+		.intro-text,
+		.intro-text a {
+
+		}			
+7943	}			
+7944				
+7945	/*****************************************************************IPAD STYLES**************************/			
+7946	@media screen and (min-width: 377px) and (max-width: 780px) {			
+7947				
+7948				
+7949	h1.wild-title{			
+7950	        padding-top:0;			
+7951	}			
+7952	.organic-widgets-hero-section.organic-widgets-full-height-section {			
+7953	    height: 15vh;}			
+7954				
+7955	    div.wild-pic-1 {			
+7956	    padding-top: 75px;			
+7957	    max-width:75%;			
+7958	    width:auto;			
+7959	    margin-left:82px;			
+7960	    }			
+7961				    #footer{
+	display:none;
+}
+
+.copyright{
+	display:none;
+}		
+7962	    div.wild-pic-3 {			
+7963	    max-width:100%;			
+7964	    float: right;			
+7965	    margin-top: -200px;			
+7966	}			
+7967				
+7968	h1.unsettled-title {			
+7969	    padding-top: 880px;			
+7970	    position: absolute;			
+7971	    padding-left: 175px;			
+7972	}			
+7973				
+7974	h4.unsettled-service {			
+7975	    position: absolute;			
+7976	    padding-top: 990px;			
+7977	    padding-left: 75px;			
+7978	}			
+7979				
+7980	div.unsettled-video{			
+7981	        padding-left:70px;			
+7982	    /* float: left; */			
+7983	    padding-top: 50px;			
+7984	    /* margin-left: 50px; */			
+7985	}			
+7986				
+7987	div.unsettled-logo {			
+7988	   margin-right: 1px;			
+7989	 max-width: 100%;			
+7990	padding-top: 555px;			
+7991	}			
+7992				
+7993	h1.pets-title{			
+7994				
+7995	    padding-top: 100px;			
+7996	    width: 100%;			
+7997	    margin-left: -150px;			
+7998	}			
+7999				
+8000	h4.pets-service {			
+8001	    margin-left: -300px;			
+8002	}			
+8003				
+8004	h4.pets-client{			
+8005	        margin-left:-300px;			
+8006	}			
+8007				
+8008	div.pets-pic {			
+8009	    max-width: 75%;			
+8010	    margin-left: 95px;			
+8011	}			
+8012				
+8013				
+8014	footer.site-footer.section-inner{			
+8015	        margin-top:-170px;}			
+8016				
+8017	.button{			
+8018	        margin-top:53px;			
+8019				
+8020	}			
+8021				
+8022	img.attachment-full.size-full{			
+8023	        margin-left: 425px;			
+8024				
+8025	}			
+8026				
+8027	aside.case-study-sidebar{			
+8028	        padding-left:0;			
+8029	}			
+8030	iframe.__youtube_prefs__ {			
+8031	    margin-top: 625px;			
+8032	    margin-left: -170px;			
+8033	       padding-left: 50px;			
+8034				
+8035	}			
+8036				
+8037				
+8038	h1.services {			
+8039	    font-size: 35px;			
+8040	    color: #D6A99A;			
+8041	    position: absolute;			
+8042	    text-align: center;			
+8043	    margin-left: 305px;			
+8044	    font-weight: lighter;			
+8045	    padding-top: 310px;			
+8046				
+8047	}			
+8048				
+8049				
+8050	div.website-design{			
+8051	        width:50%;			
+8052	        height:auto;			
+8053	        margin-left:75px;			
+8054	        text-align:left;			
+8055	        margin-top:-50px;			
+8056	}			
+8057				
+8058				
+8059	.organic-widgets-hero-section.organic-widgets-full-height-section {			
+8060	    height: 15vh;}			
+8061				
+8062				
+8063				
+8064	div.design-image{			
+8065	           margin-right: 100px;			
+8066	}			
+8067				
+8068	h2.dev-title{			
+8069	        padding-top:100px;			
+8070	        padding-left: 260px;			
+8071	}			
+8072				
+8073	p.dev-content{			
+8074	            padding-right: 80px;			
+8075	}			
+8076				
+8077	div.dev-image{			
+8078	            margin-left: 85px;			
+8079	}			
+8080				
+8081	h2.content-title {			
+8082	    float: left;			
+8083	        padding-left: 100px;			
+8084	    padding-top: 100px;			
+8085	}			
+8086				
+8087	p.content-content {			
+8088	    width: 78%;			
+8089	    height: auto;			
+8090	    text-align: left;			
+8091	       padding-left: 100px;			
+8092	    padding-top: 220px;			
+8093	}			
+8094				
+8095	div.content-image{			
+8096	            margin-right: 100px;			
+8097	    margin-top: -170px;			
+8098	}			
+8099				
+8100	div.teammate-image{			
+8101	            margin-left: 100px;			
+8102	            padding-top:70px;			
+8103	}			
+8104				
+8105	h2.teammates-title {			
+8106	    margin-top: 130px;			
+8107	    margin-left: -20px;			
+8108				
+8109	}			
+8110	p.teammate-content{			
+8111	            padding-right: 100px;			
+8112	            padding-left:35px;			
+8113	            padding-bottom:100px;			
+8114	}			
+8115	.maxbutton-4.maxbutton.maxbutton-contact-us{			
+8116	            margin-bottom: -25px;			
+8117	    margin-top: 300px;			
+8118	    margin-left: 10px;			
+8119	    margin-right: -500px;			
+8120	}			
+8121				
+8122	}			
+8123	/*********************************************************************IMAC STYLES*********************************/			
+8124				
+8125	@media screen and (min-width:2000px){			
+8126				
+8127	h2.design-title{			
+8128	        font-size: 70px;			
+8129	        margin-left:150px;			
+8130	        margin-top:200px;			
+8131	}			
+8132			    #footer{
+	display:none;
+}
+
+.copyright{
+	display:none;
+}			
+8133	p.design-content{			
+8134	    font-size: 48px;			
+8135	    margin-left: 150px;			
+8136	    padding-top: 25px;			
+8137	    width:110%;			
+8138	}			
+8139				
+8140	div.design-image{			
+8141	            margin-top: -550px;			
+8142	    margin-right: 290px;			
+8143	}			
+8144				
+8145	h2.dev-title{			
+8146	            font-size: 70px;			
+8147	    /* margin-right: 150px; */			
+8148	    margin-left: 400px;			
+8149	    position: absolute;			
+8150	    margin-top:50px;			
+8151	}			
+8152				
+8153	div.dev-image {			
+8154	    width: 15%;			
+8155	    height: auto;			
+8156	    margin-left: 300px;			
+8157	    padding-top: 300px;			
+8158	}			
+8159				
+8160	p.dev-content{			
+8161	            font-size: 48px;			
+8162	    width: 110%;			
+8163	    padding-left: 1120px;			
+8164	    margin-top: -325px;			
+8165	    margin-bottom:400px;			
+8166	}			
+8167				
+8168	div.content-image {			
+8169	    width: 15%;			
+8170	    height: auto;			
+8171	    float: right;			
+8172	    margin-right: 250px;			
+8173	    margin-top: -160px;			
+8174	}			
+8175				
+8176	h2.content-title{			
+8177				
+8178	    font-size: 70px;			
+8179	    margin-top: 270px;			
+8180	    position: absolute;			
+8181	    margin-left: 150px			
+8182	}			
+8183				
+8184	p.content-content {			
+8185	    width: 78%;			
+8186	    height: auto;			
+8187	    text-align: left;			
+8188	    padding-left: 170px;			
+8189	    padding-top: 225px;			
+8190	    font-size: 48px;			
+8191	    margin-left: 130px;			
+8192	}			
+8193				
+8194	div.content-image {			
+8195	    width: 15%;			
+8196	    height: auto;			
+8197	    float: right;			
+8198	    margin-right: 300px;			
+8199	    margin-top: -495px;			
+8200	}			
+8201				
+8202	div.teammate-image {			
+8203	    padding-top: 0px;			
+8204	    width: 15%;			
+8205	    height: auto;			
+8206	    margin-left: 290px;			
+8207	    padding-top: 0px;			
+8208	    padding-top: 20px;			
+8209	    margin-top: 400px;			
+8210	}			
+8211				
+8212	h2.teammates-title {			
+8213	        margin-top: 230px;			
+8214	    margin-left: 870px;			
+8215	    position: absolute;			
+8216	    font-size: 70px;			
+8217	}			
+8218				
+8219				
+8220	footer.site-footer.section-inner {			
+8221	    padding-top: 600px}			
+8222				
+8223	    p.teammate-content {			
+8224	    width: 66%;			
+8225	    height: auto;			
+8226	    float: right;			
+8227	    text-align: left;			
+8228	    padding-top: 300px;			
+8229	    padding-right: 215px;			
+8230	    font-size: 48px;			
+8231	}			
+8232				
+8233	h1.wild-title {			
+8234	    padding-top: 200px;			
+8235	    font-size: 60px;			
+8236	}			
+8237				
+8238	h4.wild-service, h4.wild-client, div.wild-link{			
+8239	font-size: 48px;			
+8240				
+8241	}			
+8242				
+8243	div.wild-pic-1 {			
+8244	    max-width: 40%;			
+8245	    height: auto;			
+8246	    margin-left: 170px;			
+8247	    padding-top: 275px;			
+8248	    float: left;			
+8249	    position: relative;}			
+8250				
+8251	    div.wild-pic-3 {			
+8252	    max-width: 50%;			
+8253	    height: auto;			
+8254	    float: right;			
+8255	    margin-top: -35px;			
+8256	    margin-right: 80px;}			
+8257				
+8258	    h1.unsettled-title{			
+8259	            font-size:70px;			
+8260	            padding-top:100px;			
+8261	}			
+8262				
+8263	h4.unsettled-service, h4.unsettled-client{			
+8264	        font-size:48px;			
+8265	}			
+8266				
+8267	div.unsettled-video{			
+8268	            float: left;			
+8269	    padding-top: 400px;			
+8270	    margin-left: 500px;			
+8271	}			
+8272				
+8273	div.unsettled-logo {			
+8274	    max-width: 80%;			
+8275	    height: auto;			
+8276	    float: right;			
+8277	    margin-right: -275px;			
+8278	    margin-top: -1165px;			
+8279				
+8280	}			
+8281				
+8282	h6.credit {			
+8283	    position: absolute;			
+8284	    float: right;			
+8285	    margin-left: 1620px;			
+8286	    margin-top: 930px;			
+8287	    font-size: 36px;			
+8288	}			
+8289				
+8290	h1.pets-title{			
+8291	        font-size: 70px;			
+8292	}			
+8293				
+8294	h4.pets-service, h4.pets-client{			
+8295	        font-size: 48px			
+8296	}			
+8297				
+8298	div.pets-content {			
+8299	    position: absolute;			
+8300	    padding-top: 1200px;			
+8301	    margin-left: 600px;			
+8302	}			
+8303				
+8304	h4.pets-client{			
+8305	        padding-bottom:100px;			
+8306	}			
+8307				
+8308	div.pets-pic{			
+8309	            max-width: 40%;			
+8310	    max-height: auto;			
+8311	    margin-left: 760px;			
+8312	}			
+8313				
+8314				
+8315	footer.site-footer.section-inner{			
+8316	        padding-top:200px;			
+8317	}			
+#footer{
+	display:none;
+}
+
+.copyright{
+	display:none;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
